@@ -1,4 +1,5 @@
-# Curso React Deivchoi
+# Modificación del Curso React Deivchoi
+### Original: https://github.com/choidavid4/curso-react-yt
 
 ## Instrucciones para ejecutar el proyecto
 
